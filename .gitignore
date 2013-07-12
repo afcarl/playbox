@@ -1,0 +1,6 @@
+build
+target/
+docs/
+.DS_Store
+*.class
+jar.xml
