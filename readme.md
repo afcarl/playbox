@@ -3,7 +3,7 @@
 1. Quickly create simple and specific JBox2D simulations, the **playground** part.
 1. Display the resulting simulation using Processing, the **procbox** (**proc**essing + J**Box**2D) part.
 
-It was created to support code for experiments on sensorimotor learning. It might somehow be useful to you., especially if you want to rerun, check or tweak the aforementioned experiments.
+It was created to support code for experiments on sensorimotor learning. It might somehow be useful to you, especially if you want to rerun, check or tweak the aforementioned experiments.
 
 **playground** and **procbox** are cleanly separated, so that simulations created using **playground** do not have any dependency to Processing, and can be run headless as fast as possible on clusters.
 
