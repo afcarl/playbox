@@ -16,7 +16,7 @@ This software is placed under the [OpenScience license](http://fabien.benureau.c
 
 ## Installation
 
-If you which to use processing for visualization:
+If you wish to use processing for visualization:
 
 1. Install [Processing](http://www.processing.org) (>= 2.x)
 1. `make procbox`
